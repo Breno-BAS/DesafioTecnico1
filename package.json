@@ -1,0 +1,11 @@
+{
+  "name": "desafiotecnico1",
+  "version": "1.0.0",
+  "description": "Desafio entrevista",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Breno Andrade",
+  "license": "ISC"
+}
